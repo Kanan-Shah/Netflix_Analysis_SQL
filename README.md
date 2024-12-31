@@ -1,1 +1,1 @@
-# Netflix_Analysis_SQL
+# Netflix Analysis Using SQL
